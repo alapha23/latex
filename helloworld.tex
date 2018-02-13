@@ -1,0 +1,39 @@
+\documentclass{article}
+\usepackage{graphicx}	% for including graphics files
+\usepackage{ifpdf}	% use same .tex file for both latex & pdflatex
+
+\ifpdf
+  \usepackage[colorlinks,linkcolor=blue,urlcolor=blue,citecolor=blue,plainpages=false,pdfpagelabels,breaklinks]{hyperref}
+\else
+  \usepackage[colorlinks,linkcolor=blue,urlcolor=blue,citecolor=blue,plainpages=false,pdfpagelabels,linktocpage]{hyperref}
+\fi
+
+\title{my title}
+\date{2018-02-14}
+\author{Gao Zhiyuan}
+
+% preamable is the area before document
+
+\begin{document}
+  \pagenumbering{gobble}	% no page number
+  \maketitle
+  \newpage
+  \pagenumbering{arabic}	% count page from here, roman-roman numbers
+
+  \section{title of Section}
+  Hello World!
+  \subsection{subsection}
+  a subsection
+  \subsubsection{subsubsection}
+  a subsubsection 
+  \paragraph{paragraph}
+  this is a paragraph
+  \subparagraph{subparagraph}
+  this is a subparagraph
+
+  \section{Another section}
+  \section{the third section}
+
+\end{document}
+
+
