@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}title of Section}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}subsection}{1}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}subsubsection}{1}{subsubsection.1.1.1}
+\contentsline {paragraph}{paragraph}{1}{section*.1}
+\contentsline {subparagraph}{subparagraph}{1}{section*.2}
+\contentsline {section}{\numberline {2}Another section}{1}{section.2}
+\contentsline {section}{\numberline {3}inline math}{1}{section.3}
+\contentsline {section}{\numberline {4}pictures}{2}{section.4}
+\contentsline {section}{\numberline {5}section}{3}{section.5}
+\contentsline {subsection}{\numberline {5.1}subsection}{3}{subsection.5.1}

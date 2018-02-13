@@ -6,6 +6,9 @@ echo "Usage: bash tex2pdf.sh <filename> "
 	exit 1;
 fi
 
+foo=${myfile%".tex"}
+pdflatex $myfile
+bibtex $foo
 pdflatex $myfile
 
 rm *.aux
