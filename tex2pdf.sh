@@ -7,9 +7,12 @@ echo "Usage: bash tex2pdf.sh <filename> "
 fi
 
 foo=${myfile%".tex"}
+echo "foo: $foo"
 pdflatex $myfile
 bibtex $foo
 pdflatex $myfile
+pdflatex $myfile
+
 
 rm *.aux
 #latex $myfile

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.2.14)  14 FEB 2018 07:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.2.14)  14 FEB 2018 07:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -43,17 +43,17 @@ LaTeX Font Info:    ... okay on input line 4.
 [2] (./bibliographic.aux) ) 
 Here is how much of TeX's memory you used:
  211 strings out of 494945
- 2323 string characters out of 6181032
+ 2325 string characters out of 6181032
  47493 words of memory out of 5000000
  3586 multiletter control sequences out of 15000+600000
  4591 words of font info for 17 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 23i,4n,17p,121b,135s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,4n,17p,133b,135s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 i10.pfb>
-Output written on bibliographic.pdf (2 pages, 34397 bytes).
+Output written on bibliographic.pdf (2 pages, 33455 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream
